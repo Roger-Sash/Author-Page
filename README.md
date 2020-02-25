@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Roger Sash
+## Author page
 
-You can use the [editor on GitHub](https://github.com/Roger-Sash/Roger-Sash/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Books 2020
+* Transient [Nanite Publishing] [Amazon](https://www.amazon.co.uk/dp/B084BX3BQK)
+* Transient [Nanite Publishing] [Other online retailers](https://books2read.com/u/3LDKNJ)
 
-### Markdown
+### Bio
+Roger Sash lives in the former mining town of Wigan. Nestled in the North West of England and steeped in history and stories.
+Brought up on Science-Fiction and Fantasy, Roger is creating worlds and characters unbound by reality's borders.
+Roger is an avid role player and can be found around the gaming table in his spare time, either as a player or as a Games Master.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Roger-Sash/Roger-Sash/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Roger Sash](nanitepublishing@gmail.com)
+[Twitter](https://twitter.com/SashRoger)
