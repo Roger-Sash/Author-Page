@@ -3,8 +3,10 @@
 
 
 ### Books 2020
-* Transient [Nanite Publishing] [Amazon](https://www.amazon.co.uk/dp/B084BX3BQK)
-* Transient [Nanite Publishing] [Other online retailers](https://books2read.com/u/3LDKNJ)
+* Transient [Nanite Publishing] [Amazon](https://www.amazon.co.uk/dp/B084BX3BQK), [Other online retailers](https://books2read.com/u/3LDKNJ)
+
+### Upcoming Titles
+* Unity [Nanite Publishing]
 
 ### Bio
 Roger Sash lives in the former mining town of Wigan. Nestled in the North West of England, steeped in history and stories.
